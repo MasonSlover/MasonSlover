@@ -1,1 +1,1 @@
-
+<img src="output.gif">
